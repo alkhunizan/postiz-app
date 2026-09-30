@@ -247,6 +247,7 @@ export class OAuthRepository {
                 subscriptionTier: true,
                 totalChannels: true,
                 isLifetime: true,
+                createdAt: true,
               },
             },
           },
